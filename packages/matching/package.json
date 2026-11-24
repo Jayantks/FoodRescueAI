@@ -1,0 +1,9 @@
+{
+  "name": "@foodbridge/matching",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": "./src/rank.ts",
+  "scripts": { "test": "node --import tsx --test src/rank.test.ts" },
+  "devDependencies": { "tsx": "^4.19.0" }
+}

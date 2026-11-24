@@ -1,0 +1,17 @@
+{
+  "name": "foodrescue-ai",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": ["apps/*", "packages/*"],
+  "scripts": {
+    "dev": "concurrently --kill-others --names api,web \"npm:dev:api\" \"npm:dev:web\"",
+    "dev:api": "npm run dev --workspace @foodbridge/api",
+    "dev:web": "npm run dev --workspace @foodbridge/web",
+    "build": "npm run build --workspaces --if-present",
+    "start": "npm run start --workspace @foodbridge/api",
+    "check": "npm run check --workspaces --if-present",
+    "test": "npm run test --workspaces --if-present"
+  },
+  "devDependencies": { "concurrently": "^9.2.0" },
+  "engines": { "node": ">=22.12.0" }
+}
