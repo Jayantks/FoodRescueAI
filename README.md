@@ -38,10 +38,8 @@ The accounts are for local demonstration. Donation, allocation, demand, and pick
 
 
 ## Dashboard image
+<img width="1917" height="908" alt="image" src="https://github.com/user-attachments/assets/d0b1823b-d807-4e38-8429-111df4dd37c0" />
 
-The donor dashboard uses a photograph generated with the built-in ImageGen tool. The project asset is 'apps/web/public/images/food-handoff.jpg'.
-
-> Wide 3:2 editorial photograph for the right side of a modern Indian food redistribution dashboard banner. Close waist-level candid view of two Indian food-bank workers, faces outside frame, passing a raw kraft cardboard carton filled with sealed dry food packages, brown paper bags, and plain food tins. The principal objects are centered slightly right, concentrated in the center vertical third so it crops well into a wide banner. Forest-green work apron on the right, left arm reaching into the scene. Warm, soft side light on carton, dark leafy-green warehouse background and deep unobtrusive shadows across left third for a UI gradient blend. Calm, practical, tactile, understated photography. Coherent anatomy, no text, no visible branding or logos, no watermarks, no overlays.
 
 ## Pickup map
 
